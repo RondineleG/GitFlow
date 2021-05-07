@@ -26,3 +26,5 @@ git checkout main -  Seleciona branch master
 git merge release/0.1.0 - Faz merge da release/0.1.0  na main
 
 git checkout master - Seleciona branch master
+
+git add . - Adicionar arquivos no stage
