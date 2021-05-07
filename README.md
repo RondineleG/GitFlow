@@ -28,3 +28,15 @@ git merge release/0.1.0 - Faz merge da release/0.1.0  na main
 git checkout master - Seleciona branch master
 
 git add . - Adicionar arquivos no stage
+
+
+ git merge hotfix/consertar-branch - Merge hotfix na main
+
+git checkout develop - Seleciona branch develop 
+
+ git merge hotfix/consertar-branch - Merge hotfix na develop 
+
+
+git branch -D hotfix/consertar-branch - Delete branch
+git branch -D  release/0.1.0  - Delete branch
+git branch -D feature/criando-feature-branch - Delete branch
