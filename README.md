@@ -13,3 +13,12 @@ git checkout develop -  Para Selecionar a branch develop
 
 git merge feature/criando-feature-branch - Faz o merfe da branch na develop
 
+git checkout develop - Para Selecionar a branch develop
+
+git checkout -b release/0.1.0 -  Para criar uma release
+
+git checkout main -  Seleciona branch master
+
+git merge release/0.1.0 - Faz merge da release/0.1.0  na main
+
+git checkout master - Seleciona branch master
