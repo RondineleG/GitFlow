@@ -1,7 +1,11 @@
 # GitFlow
-Roteiro passo a passo para utilizar a estratégia GitFlow.
+Roteiro passo a passo para utilizar a estratégia GitFlow.]
 
- git init -  Pra inicializar um novo repositorio
+git clone https://github.com/RondineleG/GitFlow.git -  Pra clonar um repositorio existente
+
+git init -  Pra inicializar um novo repositorio
+
+git remote add origin https://github.com/RondineleG/GitFlow.git - Para adicionar um repositorio remoto ao local. 
  
  git branch develop - Criar branch develop
  
